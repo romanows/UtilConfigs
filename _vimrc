@@ -31,3 +31,4 @@ endfunction
 imap jj <Esc>
 set nowrap
 set gfn=Courier_New:h9:cANSI
+set backupdir=~/tmp,~/temp,$HOME/Local\ Settings/Temp
