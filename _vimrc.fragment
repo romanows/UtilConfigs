@@ -1,4 +1,4 @@
-# _vimrc fragment for Windows GVIM
+" _vimrc fragment for Windows GVIM
 
 imap jj <Esc>
 set nowrap
