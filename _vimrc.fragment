@@ -1,6 +1,16 @@
 " _vimrc fragment for Windows GVIM
 
 imap jj <Esc>
+
 set nowrap
+set nu
+set hlsearch
+set encoding=utf-8
+
+" Attempts to turn off auto-wrapping
+set fo-=t
+set textwidth=0
+
+" Especially Windows-specific
 set gfn=Courier_New:h9:cANSI
 set backupdir=~/tmp,~/temp,$HOME/Local\ Settings/Temp
